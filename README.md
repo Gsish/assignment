@@ -8,7 +8,7 @@ Approach & Challenges
 
 4.Generated an API key for Mistral LLM to integrate AI-powered responses.
 
-5.Implemented RESTful endpoints to handle POST, GET, and DELETE requests for seamless accessibility.
+5.also define pydentic by inheriting basemodel Implemented RESTful endpoints to handle POST, GET, and DELETE requests for seamless accessibility.
 
 6.used postman to test api
 
