@@ -10,7 +10,9 @@ Approach & Challenges
 
 5.Implemented RESTful endpoints to handle POST, GET, and DELETE requests for seamless accessibility.
 
-6.At last used claude ai to add comments and doc strings in the script
+6.used postman to test api
+
+7.At last used claude ai to add comments and doc strings in the script
 
 #Challenges:
 1.Transitioning from Django to FastAPI – Since I primarily use Django, adapting to FastAPI required understanding its async architecture and dependency injection model.
